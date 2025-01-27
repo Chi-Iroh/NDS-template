@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include <nds.h>
 #include <gl2d.h>
 
